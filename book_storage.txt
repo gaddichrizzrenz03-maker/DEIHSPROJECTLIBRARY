@@ -1,0 +1,105 @@
+B001|Introduction to Java Programming|John Smith|Technology|5
+B002|Advanced Mathematics for High Schools|Jane Doe|Academics|3
+B003|Philippine History and Culture|Maria Santos|History|4
+B004|Modern Physics Concepts|Albert Einstein Jr.|Science|2
+B005|English Literature Classics|William Shakespeare|Literature|6
+BK001|To Kill a Mockingbird|Harper Lee|Fiction|5
+BK002|1984|George Orwell|Dystopian|5
+BK003|The Great Gatsby|F. Scott Fitzgerald|Classic|5
+BK004|Pride and Prejudice|Jane Austen|Romance|5
+BK005|The Hobbit|J.R.R. Tolkien|Fantasy|5
+BK006|Fahrenheit 451|Ray Bradbury|Science Fiction|5
+BK007|Jane Eyre|Charlotte Brontë|Classic|5
+BK008|Animal Farm|George Orwell|Satire|5
+BK009|Lord of the Flies|William Golding|Allegorical Fiction|5
+BK010|The Catcher in the Rye|J.D. Salinger|Coming-of-Age|5
+BK011|The Alchemist|Paulo Coelho|Adventure|5
+BK012|The Chronicles of Narnia|C.S. Lewis|Fantasy|5
+BK013|Harry Potter and the Sorcerer's Stone|J.K. Rowling|Fantasy|5
+BK014|The Lord of the Rings|J.R.R. Tolkien|Fantasy|5
+BK015|Brave New World|Aldous Huxley|Dystopian|5
+BK016|The Diary of a Young Girl|Anne Frank|Biography|5
+BK017|The Little Prince|Antoine de Saint-Exupéry|Fable|5
+BK018|The Silmarillion|J.R.R. Tolkien|Fantasy|5
+BK019|Crime and Punishment|Fyodor Dostoevsky|Philosophical Fiction|5
+BK020|The Odyssey|Homer|Epic|5
+BK021|Moby-Dick|Herman Melville|Adventure|5
+BK022|War and Peace|Leo Tolstoy|Historical Fiction|5
+BK023|The Brothers Karamazov|Fyodor Dostoevsky|Philosophical Fiction|5
+BK024|Madame Bovary|Gustave Flaubert|Classic|5
+BK025|The Divine Comedy|Dante Alighieri|Epic Poetry|5
+BK026|Les Misérables|Victor Hugo|Historical Fiction|5
+BK027|Wuthering Heights|Emily Brontë|Gothic Fiction|5
+BK028|Great Expectations|Charles Dickens|Classic|5
+BK029|A Tale of Two Cities|Charles Dickens|Historical Fiction|5
+BK030|Frankenstein|Mary Shelley|Gothic Science Fiction|5
+BK031|Dracula|Bram Stoker|Gothic Horror|5
+BK032|The Picture of Dorian Gray|Oscar Wilde|Philosophical Fiction|5
+BK033|The Iliad|Homer|Epic|5
+BK034|Don Quixote|Miguel de Cervantes|Satire|5
+BK035|The Count of Monte Cristo|Alexandre Dumas|Adventure|5
+BK036|Anna Karenina|Leo Tolstoy|Realist Fiction|5
+BK037|The Metamorphosis|Franz Kafka|Absurdist Fiction|5
+BK038|The Stranger|Albert Camus|Philosophical Fiction|5
+BK039|One Hundred Years of Solitude|Gabriel García Márquez|Magical Realism|5
+BK040|The Handmaid's Tale|Margaret Atwood|Dystopian|5
+BK041|The Kite Runner|Khaled Hosseini|Drama|5
+BK042|Life of Pi|Yann Martel|Adventure|5
+BK043|The Book Thief|Markus Zusak|Historical Fiction|5
+BK044|The Giver|Lois Lowry|Dystopian|5
+BK045|Catch-22|Joseph Heller|Satire|5
+BK046|Slaughterhouse-Five|Kurt Vonnegut|Science Fiction|5
+BK047|A Clockwork Orange|Anthony Burgess|Dystopian|5
+BK048|Of Mice and Men|John Steinbeck|Tragedy|5
+BK049|The Grapes of Wrath|John Steinbeck|Realist Fiction|5
+BK050|East of Eden|John Steinbeck|Epic|5
+BK051|The Martian Chronicles|Ray Bradbury|Science Fiction|5
+BK052|The Sun Also Rises|Ernest Hemingway|Modernist Novel|5
+BK053|The Old Man and the Sea|Ernest Hemingway|Adventure|5
+BK054|For Whom the Bell Tolls|Ernest Hemingway|War Novel|5
+BK055|A Farewell to Arms|Ernest Hemingway|Romance|5
+BK056|Beloved|Toni Morrison|Historical Fiction|5
+BK057|The Color Purple|Alice Walker|Epistolary Novel|5
+BK058|Invisible Man|Ralph Ellison|Bildungsroman|5
+BK059|Native Son|Richard Wright|Protest Novel|5
+BK060|This Side of Paradise|F. Scott Fitzgerald|Classic|5
+BK061|Tender is the Night|F. Scott Fitzgerald|Tragedy|5
+BK062|Atlas Shrugged|Ayn Rand|Philosophical Fiction|5
+BK063|The Fountainhead|Ayn Rand|Philosophical Fiction|5
+BK064|Sapiens: A Brief History of Humankind|Yuval Noah Harari|Non-Fiction|5
+BK065|Educated|Tara Westover|Memoir|5
+BK066|Becoming|Michelle Obama|Memoir|5
+BK067|Thinking, Fast and Slow|Daniel Kahneman|Psychology|5
+BK068|Atomic Habits|James Clear|Self-Help|5
+BK069|The 7 Habits of Highly Effective People|Stephen Covey|Self-Help|5
+BK070|Deep Work|Cal Newport|Productivity|5
+BK071|Rich Dad Poor Dad|Robert T. Kiyosaki|Finance|5
+BK072|The Psychology of Money|Morgan Housel|Finance|5
+BK073|Good to Great|Jim Collins|Business|5
+BK074|Man's Search for Meaning|Viktor E. Frankl|Psychology|5
+BK075|The Power of Now|Eckhart Tolle|Spirituality|5
+BK076|Noise: A Flaw in Human Judgment|Daniel Kahneman|Psychology|5
+BK077|Cosmos|Carl Sagan|Science|5
+BK078|A Brief History of Time|Stephen Hawking|Science|5
+BK079|The Selfish Gene|Richard Dawkins|Science|5
+BK080|Clean Code|Robert C. Martin|Technology|5
+BK081|The Pragmatic Programmer|Andy Hunt and Dave Thomas|Technology|5
+BK082|Introduction to Algorithms|Thomas H. Cormen|Technology|5
+BK083|Design Patterns|Erich Gamma et al.|Technology|5
+BK084|Code: The Hidden Language|Charles Petzold|Technology|5
+BK085|The Art of Computer Programming|Donald Knuth|Technology|5
+BK086|Artificial Intelligence: A Modern Approach|Stuart Russell and Peter Norvig|Technology|5
+BK087|Python Crash Course|Eric Matthes|Technology|5
+BK088|Fluent Python|Luciano Ramalho|Technology|5
+BK089|Effective Java|Joshua Bloch|Technology|5
+BK090|Head First Java|Kathy Sierra and Bert Bates|Technology|5
+BK091|The Fellowship of the Ring|J.R.R. Tolkien|Fantasy|5
+BK092|Dune|Frank Herbert|Science Fiction|5
+BK093|Foundation|Isaac Asimov|Science Fiction|5
+BK094|Neuromancer|William Gibson|Cyberpunk|5
+BK095|Snow Crash|Neal Stephenson|Cyberpunk|5
+BK096|Ender's Game|Orson Scott Card|Science Fiction|5
+BK097|The Martian|Andy Weir|Science Fiction|5
+BK098|Project Hail Mary|Andy Weir|Science Fiction|5
+BK099|Ready Player One|Ernest Cline|Sci-Fi Adventure|5
+BK100|Hyperion|Dan Simmons|Science Fiction|5
